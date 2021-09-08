@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
+A Data/Library Carpentry Workshop: https://dwinston.github.io/2021-09-14-osu-online/
+
 # The Carpentries Workshop Template
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
